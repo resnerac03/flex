@@ -2,7 +2,7 @@ body{
 	font:15px/1.5 Arial,Helvetica, sans-serif;
 	padding: 0;
 	margin: 0;
-	background: grey;
+	background: red;
 }
 
 /*SAMPLE 1*/
@@ -18,11 +18,11 @@ body{
 #sample-1 .main-col{
 	flex: 1;
 	order: 2;
-} 
+}
 
 #sample-1 .sidebar-1{
 	flex: 1;
-	order: 1;	
+	order: 1;
 }
 
 #sample-1 .sidebar-2{
@@ -155,11 +155,11 @@ body{
 
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 }
 
-/* Custom, iPhone Retina */ 
+/* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
-	
+
 }
